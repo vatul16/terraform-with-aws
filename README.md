@@ -1,6 +1,5 @@
 # Learning Terraform with AWS
 
-
 | Project Type     | Day    | Project Title                                                   | Blog Link   |
 | ---------------- | ------ | --------------------------------------------------------------- | ----------------------------------- |
 | Mini Project     | DAY-14 | AWS Static Website Hosting with S3, CloudFront & Edge Locations | 🔗 https://dev.to/vatul16/hosting-a-static-website-on-aws-with-s3-and-cloudfront-using-terraform-174b |
