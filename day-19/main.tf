@@ -76,12 +76,12 @@ resource "aws_instance" "demo" {
   ------------------------------------------------------------------
   */
 
-  provisioner "remote-exec" {
-    inline = [
-      "sudo apt-get update",
-      "echo 'Hello from remote-exec' | sudo tee /tmp/remote_exec.txt",
-    ]
-  }
+  # provisioner "remote-exec" {
+  #   inline = [
+  #     "sudo apt-get update",
+  #     "echo 'Hello from remote-exec' | sudo tee /tmp/remote_exec.txt",
+  #   ]
+  # }
 
 
   /*
@@ -92,7 +92,7 @@ resource "aws_instance" "demo" {
   - To demo: uncomment both the file provisioner and the remote-exec block below.
   ------------------------------------------------------------------
   */
-  /*
+  
   provisioner "file" {
     source      = "${path.module}/scripts/welcome.sh"
     destination = "/tmp/welcome.sh"
@@ -104,5 +104,5 @@ resource "aws_instance" "demo" {
       "sudo /tmp/welcome.sh"
     ]
   }
-  */
+  
 }
