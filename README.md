@@ -7,4 +7,5 @@
 | Mini Project     | DAY-16 | AWS IAM User Management                                         | 🔗 https://dev.to/vatul16/scaling-iam-user-management-with-terraform-gc5 |
 | Mini Project     | DAY-17 | AWS Blue-Green Deployment using Elastic Beanstalk               | 🔗 https://dev.to/vatul16/mastering-blue-green-deployments-with-terraform-aws-elastic-beanstalk-3gpm |
 | Mini Project     | DAY-18 | Image Processing Serverless Project using AWS Lambda              | 🔗 https://dev.to/vatul16/building-a-serverless-image-processing-pipeline-with-terraform-i6g |
-| Realtime Project | DAY-20 | Terraform Custom Modules for EKS                                      |  🔗 Add Link |
+| Realtime Project | DAY-20 | Terraform Custom Modules for EKS                                      |  🔗 https://dev.to/vatul16/mastering-custom-terraform-modules-for-scalable-aws-infrastructure-5cop |
+| Mini Project | DAY-21 | AWS Policy and Governance Setup                                   |  🔗 https://dev.to/vatul16/mastering-cloud-policy-governance-with-terraform-cl4 |
