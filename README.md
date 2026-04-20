@@ -8,6 +8,7 @@
 | Mini Project     | DAY-17 | AWS Blue-Green Deployment using Elastic Beanstalk               | 🔗 https://dev.to/vatul16/mastering-blue-green-deployments-with-terraform-aws-elastic-beanstalk-3gpm |
 | Mini Project     | DAY-18 | Image Processing Serverless Project using AWS Lambda            | 🔗 https://dev.to/vatul16/building-a-serverless-image-processing-pipeline-with-terraform-i6g |
 | Realtime Project | DAY-20 | Terraform Custom Modules for EKS                                | 🔗 https://dev.to/vatul16/mastering-custom-terraform-modules-for-scalable-aws-infrastructure-5cop |
-| Mini Project | DAY-21 | AWS Policy and Governance Setup                                     | 🔗 https://dev.to/vatul16/mastering-cloud-policy-governance-with-terraform-cl4 |
-| Mini Project | DAY-22 | 2-Tier Architecture Setup on AWS                                    | 🔗 https://dev.to/vatul16/building-a-production-ready-2-tier-architecture-on-aws-with-terraform-3m8f |
+| Mini Project     | DAY-21 | AWS Policy and Governance Setup                                 | 🔗 https://dev.to/vatul16/mastering-cloud-policy-governance-with-terraform-cl4 |
+| Mini Project     | DAY-22 | 2-Tier Architecture Setup on AWS                                | 🔗 https://dev.to/vatul16/building-a-production-ready-2-tier-architecture-on-aws-with-terraform-3m8f |
 | Realtime Project | DAY-23 | Setup End-to-End Observability in AWS Using Terraform           | 🔗 https://dev.to/vatul16/building-production-grade-observability-with-terraform-2i3e |
+| Mini Project     | DAY-24 | Highly Available and Scalable Architecture Using Terraform      | 🔗 https://dev.to/vatul16/building-a-highly-available-web-architecture-with-terraform-38h1 |
