@@ -1,7 +1,7 @@
 # Learning Terraform with AWS
 
 | Project Type     | Day    | Project Title                                                   | Blog Link   |
-| ---------------- | ------ | --------------------------------------------------------------- | ----------------------------------- |
+| ---------------- | ------ | --------------------------------------------------------------- | ----------- |
 | Mini Project     | DAY-14 | AWS Static Website Hosting with S3, CloudFront & Edge Locations | 🔗 https://dev.to/vatul16/hosting-a-static-website-on-aws-with-s3-and-cloudfront-using-terraform-174b |
 | Mini Project | DAY-15 | AWS VPC Peering: Cross-Region EC2 Private & Secure Connectivity     | 🔗 https://dev.to/vatul16/mastering-aws-vpc-peering-with-terraform-2dhp |
 | Mini Project     | DAY-16 | AWS IAM User Management                                         | 🔗 https://dev.to/vatul16/scaling-iam-user-management-with-terraform-gc5 |
@@ -12,3 +12,4 @@
 | Mini Project     | DAY-22 | 2-Tier Architecture Setup on AWS                                | 🔗 https://dev.to/vatul16/building-a-production-ready-2-tier-architecture-on-aws-with-terraform-3m8f |
 | Realtime Project | DAY-23 | Setup End-to-End Observability in AWS Using Terraform           | 🔗 https://dev.to/vatul16/building-production-grade-observability-with-terraform-2i3e |
 | Mini Project     | DAY-24 | Highly Available and Scalable Architecture Using Terraform      | 🔗 https://dev.to/vatul16/building-a-highly-available-web-architecture-with-terraform-38h1 |
+| Realtime Project | DAY-25 | Terraform Import In AWS                                         | 🔗  |
