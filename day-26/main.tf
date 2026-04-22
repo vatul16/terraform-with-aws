@@ -21,12 +21,3 @@ resource "aws_s3_bucket" "first_bucket" {
     Environment = "Dev"
   }
 }
-
-resource "aws_s3_bucket" "first_bucket2" {
-  bucket = "atul-learning-terraform-v102"
-
-  tags = {
-    Name        = "My Bucket 2.0"
-    Environment = "Dev"
-  }
-}
