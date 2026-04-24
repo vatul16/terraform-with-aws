@@ -13,3 +13,4 @@
 | Realtime Project | DAY-23 | Setup End-to-End Observability in AWS Using Terraform           | 🔗 https://dev.to/vatul16/building-production-grade-observability-with-terraform-2i3e |
 | Mini Project     | DAY-24 | Highly Available and Scalable Architecture Using Terraform      | 🔗 https://dev.to/vatul16/building-a-highly-available-web-architecture-with-terraform-38h1 |
 | Realtime Project | DAY-25 | Terraform Import In AWS                                         | 🔗  |
+| Realtime Project | DAY-27 | Automate AWS Infra Using Terraform and GitHub Actions            | 🔗  |
