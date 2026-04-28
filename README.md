@@ -15,3 +15,4 @@
 | Realtime Project | DAY-25 | Terraform Import In AWS                                         | 🔗  |
 | Realtime Project | DAY-27 | Automate AWS Infra Using Terraform and GitHub Actions           | 🔗  |
 | Realtime Project | DAY-28 | AWS 3-tier Architecture With Terraform                          | 🔗 https://dev.to/vatul16/scaling-cloud-proficiency-building-a-production-ready-3-tier-architecture-with-terraform-11f6 |
+| Realtime Project | DAY-29 | End-to-end GitOps With Terraform and ArgoCD For EKS             | 🔗 https://dev.to/vatul16/mastering-gitops-bridging-infrastructure-and-application-delivery-with-terraform-argocd-4385 |
